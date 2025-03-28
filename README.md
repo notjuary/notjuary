@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **notjuary/notjuary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Linkedin <a name="https://www.linkedin.com/in/francesco-alfonso-barlotti/">   
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy the world of journalism and write the sports newspaper CampaniaFootball
--->
+
